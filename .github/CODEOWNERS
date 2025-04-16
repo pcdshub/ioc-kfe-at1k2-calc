@@ -1,5 +1,5 @@
 # default group
-* @pcdshub/epics-reviewers
+* @pcdshub/epics-reviewers @pcdshub/python-reviewers
 
 # language-specific group(s)
 ## EPICS files
